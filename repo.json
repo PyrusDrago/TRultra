@@ -1,0 +1,8 @@
+{
+  "name": "TRultra",
+  "description": "Tüm tr depoları tek yerde",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/PyrusDrago/TRultra/builds/plugins.json"
+  ]
+}
