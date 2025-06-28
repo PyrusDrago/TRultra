@@ -1,0 +1,17 @@
+[
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/PyrusDrago/TRultra",
+        "fileSize": 6653,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            
+        ],
+        "version": 1,
+        "internalName": "TRultra",
+        "description": "T\u00fcm tr depolar\u0131 tek yerde",
+        "url": "https://raw.githubusercontent.com/PyrusDrago/TRultra/builds/TRultra.cs3",
+        "name": "TRultra"
+    }
+]
